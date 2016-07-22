@@ -5,8 +5,8 @@ Repeating Print Screen of the window in the interval that you also specified.
 https://github.com/npocmaka/batch.scripts/blob/master/hybrids/.net/c/screenCapture.bat
 
 2. Double click PrintScrnRepeat.bat
-3. "Sleep time in sec?: "
-4. WINDOW_NAME= "Window Name?: "
+3. Type in "Sleep time in sec?: "
+4. Type in "Window Name?: "
 The window name would be found in Windows Task Manager -> Applications tab -> Task.
 Only a first couple of letters are needed. (e.g. MATLAB R -> MAT)
 5. Sleep method might not be the most sophisticated way. It gives off fake pings to a local host 127.0.0.1 to waste some time. 
